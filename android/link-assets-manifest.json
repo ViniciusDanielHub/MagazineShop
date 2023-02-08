@@ -1,0 +1,261 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Alata/Alata-Regular.ttf",
+      "sha1": "43d1232d168d2dbd2606dd43a2b530646d35ff5a"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-Black.ttf",
+      "sha1": "c13c608d505b88f39559e406d35753fb8e68635e"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-Bold.ttf",
+      "sha1": "96c3afeacb8f95ec015157419aed8b31ccf5ed46"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-ExtraBold.ttf",
+      "sha1": "31add10ca97f37f03b322d90effbf71847bd2f0d"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-ExtraLight.ttf",
+      "sha1": "1231adcbc3552bd89d78410650961cc234878869"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-Light.ttf",
+      "sha1": "3b2340ed98714d79c2ddd7fee8120cd4198b971a"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-Medium.ttf",
+      "sha1": "4591d390c34f173e79f71bf9eb682276b6d8bf28"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-Regular.ttf",
+      "sha1": "7426e387aea19b486a47f15869a3a8328fac0058"
+    },
+    {
+      "path": "assets/fonts/Barlow/Barlow-SemiBold.ttf",
+      "sha1": "3ce5f54b109563e173c1eb1dccd3c6962c912b6a"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-Black.ttf",
+      "sha1": "607f2dc534b776078d835f9897e85b13306fecff"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-Bold.ttf",
+      "sha1": "42555a55fc97e32c7b6ce864d95c6c37bba9f8f3"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-ExtraBold.ttf",
+      "sha1": "3a2cc1a9dd42e93ee67a9869418ccd9cf152e7b4"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-ExtraLight.ttf",
+      "sha1": "b34fbf4cf06f06e58cd8494b868e00d8257264ce"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-Light.ttf",
+      "sha1": "502781bfb98d503d58e7881a3fdbf595c987ed25"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-Medium.ttf",
+      "sha1": "fa38d121ab372f6f9d35ce8bfc111234e258c102"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-Regular.ttf",
+      "sha1": "ca66588bd3800c8f523f8de0bce9a0b60bc7cd8a"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-SemiBold.ttf",
+      "sha1": "5a62972fb5a96593a81eebb53ec12e8e1b52e5ab"
+    },
+    {
+      "path": "assets/fonts/Heebo/Heebo-Thin.ttf",
+      "sha1": "9469214403c47d3424f11825add986b17cb43e22"
+    },
+    {
+      "path": "assets/fonts/Icons/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "assets/fonts/Icons/Entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "assets/fonts/Icons/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "assets/fonts/Icons/Feather.ttf",
+      "sha1": "e6604258b1ced5efd51360875d782fca65381d47"
+    },
+    {
+      "path": "assets/fonts/Icons/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "assets/fonts/Icons/FontAwesome5_Brands.ttf",
+      "sha1": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372"
+    },
+    {
+      "path": "assets/fonts/Icons/FontAwesome5_Regular.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "assets/fonts/Icons/FontAwesome5_Solid.ttf",
+      "sha1": "c1b9fae262f42868c075ac865a8ab34920e20a2c"
+    },
+    {
+      "path": "assets/fonts/Icons/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "assets/fonts/Icons/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "assets/fonts/Icons/Ionicons.ttf",
+      "sha1": "b5281fbfa43129abc3e412dd938cfcf0b77de999"
+    },
+    {
+      "path": "assets/fonts/Icons/MaterialCommunityIcons.ttf",
+      "sha1": "4c2a838b00dbb5e8bb1b368fce0de534e8eb241c"
+    },
+    {
+      "path": "assets/fonts/Icons/MaterialIcons.ttf",
+      "sha1": "1943803d652750c8ec60415f1e57401c70e72d25"
+    },
+    {
+      "path": "assets/fonts/Icons/Octicons.ttf",
+      "sha1": "56acefc0731f35ee23b195b1c8cb5fa94a0db97b"
+    },
+    {
+      "path": "assets/fonts/Icons/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "assets/fonts/Icons/Zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Black.ttf",
+      "sha1": "a001eb827743636e04f8efa7d4aeedf0541c46ac"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Light.ttf",
+      "sha1": "ad0d178564445a535b15d417f5b18019923d3bab"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/Poppins/OFL.txt",
+      "sha1": "8d6c34b70e3d638c82d7b5aba3f847f7d6d2c831"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Poppins/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-Black.ttf",
+      "sha1": "407d1bbd4b0f67d5c2cc06c8ed1cb4287566a402"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-Bold.ttf",
+      "sha1": "e68ec3310202f2a08092ffc9c1bb28268f8c5b70"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-ExtraBold.ttf",
+      "sha1": "5d6a9021a9a3dcdb19cdcf739b1f08fc317cba4c"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-Light.ttf",
+      "sha1": "d787342d65c099498babc2be83cc10c24f24cfca"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-Medium.ttf",
+      "sha1": "dfb3bb5c226cf55f1dd579caf8e8829753d0e71c"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-Regular.ttf",
+      "sha1": "a68256ef0c0a3a7b597dba28408e584cf24c1e56"
+    },
+    {
+      "path": "assets/fonts/Rubik/Rubik-SemiBold.ttf",
+      "sha1": "10382ad4baeab13e88692f5a9372341020e8ba47"
+    }
+  ]
+}

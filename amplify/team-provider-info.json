@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-magazineshopecommerc-staging-163345-authRole",
+      "UnauthRoleArn": "arn:aws:iam::061939665599:role/amplify-magazineshopecommerc-staging-163345-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::061939665599:role/amplify-magazineshopecommerc-staging-163345-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-magazineshopecommerc-staging-163345-deployment",
+      "UnauthRoleName": "amplify-magazineshopecommerc-staging-163345-unauthRole",
+      "StackName": "amplify-magazineshopecommerc-staging-163345",
+      "StackId": "arn:aws:cloudformation:us-east-1:061939665599:stack/amplify-magazineshopecommerc-staging-163345/df259da0-9c04-11ed-9c90-0a4881a5ae3f",
+      "AmplifyAppId": "d2zp9prftlsy4q"
+    },
+    "categories": {
+      "auth": {
+        "magazineShopEcommerceBackend": {}
+      }
+    }
+  }
+}
