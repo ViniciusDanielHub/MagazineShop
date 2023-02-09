@@ -160,7 +160,7 @@ export const ForgotPassword = ({email} : FormData) => {
     </TouchableWithoutFeedback>
 
       <ModalComponent
-        textModal={HardCodedTexts.passwordSuccessfull}
+        successText={HardCodedTexts.passwordSuccessfull}
         iconName='checkmark'
         colorIconCircle='#AF86F1'
         colorIcon='#fff'

@@ -82,7 +82,7 @@ export const ErrorCircle = styled.View`
   `}
 `
 
-export const TextModalRedefinePassword = styled.Text`
+export const TextModal = styled.Text`
   ${({ theme }: DefaultTheme) => css`
     margin-top: 24px;
     font-size:20px;

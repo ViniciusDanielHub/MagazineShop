@@ -149,7 +149,7 @@ export const VerifyUserAccountCode = ({ route }: any) => {
     </TouchableWithoutFeedback>
 
       <ModalComponent
-        textModal={HardCodedTexts.passwordSuccessfull}
+        successText={HardCodedTexts.passwordSuccessfull}
         iconName='checkmark'
         colorIconCircle='#AF86F1'
         colorIcon='#fff'

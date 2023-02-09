@@ -1,30 +1,32 @@
 import { Modal } from 'react-native';
+
 import Icon from 'react-native-vector-icons/Ionicons';
-import { HardCodedTexts } from '../../../core/customTexts/hardcodedTexts';
 
 import { Button } from '../button';
+
+import { HardCodedTexts } from '../../../core/customTexts/hardcodedTexts';
 
 import * as S from './styles'
 
 type ModalProps = {
-   textModal:string | Object;
+   successText:string | Object;
+   errorText: any
    iconName: string;
    colorIconCircle: string;
    colorIcon:string;
    buttonText: string | Object
    isVisible: boolean
-   errorText: any
    openCloseModal: () => void;
 }
 
 export const ModalComponent = ({
-    textModal, 
+    successText, 
+    errorText,
     iconName, 
     colorIconCircle, 
     colorIcon, 
     buttonText,
     isVisible,
-    errorText,
     openCloseModal
   }: ModalProps) => {
 
@@ -53,18 +55,18 @@ export const ModalComponent = ({
               </S.ErrorCircle>
             ): (
                 <S.SuccessfullCircle>
-                  <Icon name={iconName} size={48} color={colorIcon} />
+                  <Icon name={iconName} size={32} color={colorIcon} />
                 </S.SuccessfullCircle>
             )}
 
             {errorText ? (
-              <S.TextModalRedefinePassword>
+              <S.TextModal>
                 {errorText}
-              </S.TextModalRedefinePassword>
+              </S.TextModal>
             ) : (
-                <S.TextModalRedefinePassword>
-                  {textModal}
-                </S.TextModalRedefinePassword>
+                <S.TextModal>
+                  {successText}
+                </S.TextModal>
             )}
 
             {errorText ? (
