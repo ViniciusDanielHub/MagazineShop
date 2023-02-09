@@ -202,7 +202,9 @@ export const SignUp = () => {
 
       <ModalComponent
         textModal={HardCodedTexts.passwordSuccessfull}
+        iconName='checkmark'
         colorIconCircle='#AF86F1'
+        colorIcon='#fff'
         buttonText={HardCodedTexts.textButtonPasswordSuccessfull}
         isVisible={modalVisible}
         openCloseModal={() => setModalVisible(false)}

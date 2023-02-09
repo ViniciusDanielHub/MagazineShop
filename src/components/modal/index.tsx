@@ -1,5 +1,3 @@
-import { useNavigation } from '@react-navigation/native';
-import { useState } from 'react';
 import { Modal } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
 import { HardCodedTexts } from '../../../core/customTexts/hardcodedTexts';
@@ -10,7 +8,9 @@ import * as S from './styles'
 
 type ModalProps = {
    textModal:string | Object;
+   iconName: string;
    colorIconCircle: string;
+   colorIcon:string;
    buttonText: string | Object
    isVisible: boolean
    errorText: any
@@ -19,7 +19,9 @@ type ModalProps = {
 
 export const ModalComponent = ({
     textModal, 
+    iconName, 
     colorIconCircle, 
+    colorIcon, 
     buttonText,
     isVisible,
     errorText,
@@ -49,9 +51,9 @@ export const ModalComponent = ({
               <S.ErrorCircle>
                 <Icon name="close" size={48} color='#fff' />
               </S.ErrorCircle>
-            ) : (
+            ): (
                 <S.SuccessfullCircle>
-                  <Icon name="checkmark" size={32} color='#fff' />
+                  <Icon name={iconName} size={48} color={colorIcon} />
                 </S.SuccessfullCircle>
             )}
 
