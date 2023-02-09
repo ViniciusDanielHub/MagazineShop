@@ -96,7 +96,6 @@ export const ResetPassword = ({route}: any) => {
                       sizeNumber={20}
                       colorIcon='#b354b4'
                       placeholder={HardCodedTexts.confirmationCodeText}
-                      iconSecurePassword
                       keyboardType={'number-pad'}
                       errorMessage={errors.code?.message}
                     >
@@ -115,7 +114,7 @@ export const ResetPassword = ({route}: any) => {
                       value={value}
                       onBlur={onBlur}
                       onChangeText={onChange}
-                      nameIcon='md-lock'
+                      nameIcon='lock-closed'
                       sizeNumber={20}
                       colorIcon='#b354b4'
                       placeholder={HardCodedTexts.confirmPasswordTextOne}
@@ -137,7 +136,7 @@ export const ResetPassword = ({route}: any) => {
                       value={value}
                       onBlur={onBlur}
                       onChangeText={onChange}
-                      nameIcon='md-lock'
+                      nameIcon='lock-closed'
                       sizeNumber={20}
                       colorIcon='#b354b4'
                       placeholder={HardCodedTexts.confirmPasswordTextTwo}
