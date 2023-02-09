@@ -18,7 +18,7 @@ export const signUpSchema = yup
       .required("Please enter your password")
       .matches(
         /\w*[a-z]\w*/,
-        "The password must have at least one lower case letter"
+        "Lowercase letter required in password"
       )
       .matches(
         /\w*[A-Z]\w*/,
@@ -82,7 +82,7 @@ export const resetPasswordSchema = yup
       .required("Please enter your password")
       .matches(
         /\w*[a-z]\w*/,
-        "The password must have at least one lower case letter"
+        "Lowercase letter required in password"
       )
       .matches(
         /\w*[A-Z]\w*/,

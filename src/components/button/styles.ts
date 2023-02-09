@@ -8,12 +8,12 @@ const COLOR = {
   `,
   secondary: css`
     color: #030517;
-    background-color: #fafafa;
+    background-color: #9E7ABE;
   `,
 };
 
 const DISABLED = css`
-  background: #d4d4d4;
+  background: #CAA4EC;
   color: #000;
 `;
 

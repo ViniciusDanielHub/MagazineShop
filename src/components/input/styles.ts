@@ -28,7 +28,7 @@ export const AlignParentWithRow = styled.View`
 
 export const TextInputError = styled.Text`
 ${({ theme }: DefaultTheme) => css`
-    color: #D02A5C;
+    color: #C52F70;
     font-weight: 500;
     margin:-${theme.spacings.xsmall} 0 ${theme.spacings.small} 0;
   `}

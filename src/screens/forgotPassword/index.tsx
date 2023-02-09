@@ -74,7 +74,7 @@ export const ForgotPassword = ({email} : FormData) => {
             <S.ContentForgotPassword>
 
               <S.TextTitleForgotPassword>
-                {HardCodedTexts.titleResetPassword}
+                Forgot Password
                 </S.TextTitleForgotPassword>
 
               <S.LottieViewStyled
@@ -109,7 +109,7 @@ export const ForgotPassword = ({email} : FormData) => {
               </S.SeparateInput>
 
               <Button
-                text={HardCodedTexts.resetPasswordTextButton}
+                text='Continue'
                 onPress={handleSubmit(submitChangePassword)}
                 disabled={isButtonDisabled}
               >

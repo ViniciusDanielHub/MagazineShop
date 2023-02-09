@@ -26,7 +26,7 @@ export const ContentResetPassword = styled.View`
 `
 export const ContainerBackButton = styled.View`
     position:absolute;
-    top:40px;
+    top:64px;
     left: 24px;
 `;
 

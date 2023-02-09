@@ -20,5 +20,4 @@ type ModelProduct @model @auth(rules: [{allow: public}]) {
   threeStar: Int
   fourStar: Int
   fiveStar: Int
-}
- 
+} 

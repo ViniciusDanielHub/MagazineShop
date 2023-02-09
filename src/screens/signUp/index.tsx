@@ -162,7 +162,7 @@ export const SignUp = () => {
                     value={value}
                     onBlur={onBlur}
                     onChangeText={onChange}
-                    nameIcon='md-lock'
+                    nameIcon='lock-closed'
                     sizeNumber={20}
                     colorIcon='#b354b4'
                     placeholder={HardCodedTexts.signUpPlaceHolderPassword}

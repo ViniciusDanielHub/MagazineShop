@@ -50,7 +50,7 @@ export const ModalComponent = ({
         <S.ModalContent>
 
           <S.CloseModalIcon onPress={openCloseModal}>
-            <Icon name="close" size={48} color={colorIconCircle}/>
+            <Icon name="close" size={32} color={colorIconCircle}/>
           </S.CloseModalIcon>
 
             {errorText ? (

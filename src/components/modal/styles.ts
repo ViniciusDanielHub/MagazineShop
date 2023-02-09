@@ -50,8 +50,8 @@ ${({ theme }: DefaultTheme) => css`
 export const CloseModalIcon = styled.TouchableOpacity`
  ${({ theme }: DefaultTheme) => css`
     position: absolute;
-    top:8px;
-    right: 20px;
+    top:16px;
+    right: 24px;
     width: 24px;
   `}
 `

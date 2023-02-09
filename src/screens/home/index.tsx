@@ -92,7 +92,7 @@ export const Home = () => {
           <SectionHeader title={HardCodedTexts.popularTitleSection} onPress={() => { navigation.navigate('ViewAllProducts') }} />
 
           <S.ContainerTwo>
-            {products.map((item, index) => (
+            {productLimitDataState.map((item, index) => (
                 <CardProduct
                   key={index}
                   title={item.name}

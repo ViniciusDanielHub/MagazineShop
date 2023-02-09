@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { TouchableOpacity } from 'react-native';
-import Icon from 'react-native-vector-icons/FontAwesome';
+import Icon from 'react-native-vector-icons/Ionicons';
 
 import { u } from '../../styles/htmlTagStyle';
 
@@ -28,7 +28,7 @@ export const TermsAndCondition = ({ onPress, textOne, textTwo, agreePressConfirm
           {isAgreed ? 
           <Icon 
             name="checkmark" 
-            size={20} 
+            size={14} 
             color='#fff' 
           /> 
           : null

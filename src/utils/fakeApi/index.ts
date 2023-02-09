@@ -1,15 +1,15 @@
 export const images = [
   {
     id: 1,
-    url: 'https://http2.mlstatic.com/storage/splinter-admin/o:f_webp,q_auto:best/1674054390332-home-sliderdesktop-2023-01-18t120612.358.jpg'
+    url: 'https://uploaddeimagens.com.br/images/004/334/271/original/bannermagazineshop.png?1675834044'
   },
   {
     id: 2,
-    url: 'https://http2.mlstatic.com/storage/splinter-admin/o:f_webp,q_auto:best/1673918213718-home-sliderdesktop-2023-01-16t221614.048.jpg'
+    url: 'https://uploaddeimagens.com.br/images/004/335/941/full/Group_3.png?1675893605'
   },
   {
     id: 3,
-    url: 'https://http2.mlstatic.com/storage/splinter-admin/o:f_webp,q_auto:best/1674000674328-home-sliderdesktop-2023-01-17t211038.796.jpg'
+    url: 'https://i.imgur.com/arhBt2U.png'
   },
 ]
 

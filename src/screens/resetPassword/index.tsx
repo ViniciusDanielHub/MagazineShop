@@ -150,7 +150,7 @@ export const ResetPassword = ({route}: any) => {
               </S.SeparateInput>
 
                 <Button
-                  text={HardCodedTexts.resetPasswordTextButton}
+                  text='Confirm'
                    onPress={handleSubmit(changeSendCodeNewPassword)}
                   disabled={isButtonDisabled}
                 >
