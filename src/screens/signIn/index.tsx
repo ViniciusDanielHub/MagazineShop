@@ -190,9 +190,7 @@ export const SignIn = ({route}: FormData) => {
       {route?.params?.resetPasswordSuccessful &&
       <ModalComponent
           textModal={HardCodedTexts.passwordSuccessfull}
-          iconName='checkmark'
           colorIconCircle='#AF86F1'
-          colorIcon='#fff'
           buttonText={HardCodedTexts.textButtonPasswordSuccessfull}
           isVisible={modalVisible}
           openCloseModal={() => setModalVisible(false)}
@@ -203,9 +201,7 @@ export const SignIn = ({route}: FormData) => {
       {route?.params?.confirmEmailSuccessful &&
         <ModalComponent
           textModal={HardCodedTexts.confirmEmailSuccessfull}
-          iconName='checkmark'
           colorIconCircle='#AF86F1'
-          colorIcon='#fff'
           buttonText={HardCodedTexts.textButtonPasswordSuccessfull}
           isVisible={modalVisible}
           openCloseModal={() => setModalVisible(false)}

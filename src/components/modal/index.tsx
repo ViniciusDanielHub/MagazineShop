@@ -10,9 +10,7 @@ import * as S from './styles'
 
 type ModalProps = {
    textModal:string | Object;
-   iconName: string;
    colorIconCircle: string;
-   colorIcon:string;
    buttonText: string | Object
    isVisible: boolean
    errorText: any
@@ -21,18 +19,12 @@ type ModalProps = {
 
 export const ModalComponent = ({
     textModal, 
-    iconName, 
     colorIconCircle, 
-    colorIcon, 
     buttonText,
     isVisible,
     errorText,
     openCloseModal
   }: ModalProps) => {
-
-  const [isOpen, setIsOpen] = useState(true)
-
-  const navigation = useNavigation()
 
   return (
     <S.BackgroundModal isOpen={isVisible}>
@@ -57,9 +49,9 @@ export const ModalComponent = ({
               <S.ErrorCircle>
                 <Icon name="close" size={48} color='#fff' />
               </S.ErrorCircle>
-            ): (
+            ) : (
                 <S.SuccessfullCircle>
-                  <Icon name={iconName} size={48} color={colorIcon} />
+                  <Icon name="checkmark" size={32} color='#fff' />
                 </S.SuccessfullCircle>
             )}
 
