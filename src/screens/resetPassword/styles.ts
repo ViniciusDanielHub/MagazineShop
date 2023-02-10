@@ -4,7 +4,7 @@ import LottieView from "lottie-react-native"
 
 export const Container = styled.View`
  ${({ theme }: DefaultTheme) => css`
-    background-color: ${theme.colors.thirtyColor};
+    background-color: ${theme.colors.fourthColor};
     flex:1;
     align-items: center;
     justify-content: center;
@@ -26,8 +26,8 @@ export const ContentResetPassword = styled.View`
 `
 export const ContainerBackButton = styled.View`
     position:absolute;
-    top:64px;
-    left: 24px;
+    top:48px;
+    left: 16px;
 `;
 
 export const ContentTop = styled.View`

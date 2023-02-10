@@ -132,7 +132,7 @@ export const VerifyUserAccountCode = ({ route }: any) => {
 
             <Button 
             text={HardCodedTexts.verifyCodeText} 
-            onPress={handleSubmit(d => verifyUserCode(d))} 
+            onPress={handleSubmit(verifyUserCode)} 
             disabled={isButtonDisabled}
             />
 
@@ -150,9 +150,7 @@ export const VerifyUserAccountCode = ({ route }: any) => {
 
       <ModalComponent
         successText={HardCodedTexts.passwordSuccessfull}
-        iconName='checkmark'
         colorIconCircle='#AF86F1'
-        colorIcon='#fff'
         buttonText={HardCodedTexts.textButtonPasswordSuccessfull}
         isVisible={modalVisible}
         openCloseModal={() => setModalVisible(false)}

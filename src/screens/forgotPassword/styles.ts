@@ -26,8 +26,8 @@ export const ContentForgotPassword = styled.View`
 `
 export const ContainerBackButton = styled.View`
     position:absolute;
-    top:64px;
-    left: 24px;
+    top:56px;
+    left: 16px;
 `;
 
 export const ContentTop = styled.View`

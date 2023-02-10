@@ -22,7 +22,6 @@ ${({ theme, isOpen }: DefaultTheme) => css`
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.7);
-
     ${isOpen && modalModifiers.open()}
     ${!isOpen && modalModifiers.close()}
   `}
@@ -82,7 +81,7 @@ export const ErrorCircle = styled.View`
   `}
 `
 
-export const TextModal = styled.Text`
+export const successText = styled.Text`
   ${({ theme }: DefaultTheme) => css`
     margin-top: 24px;
     font-size:20px;
