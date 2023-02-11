@@ -117,9 +117,9 @@ export const VerifyUserAccountCode = ({ route }: any) => {
                     value={value}
                     onBlur={onBlur}
                     onChangeText={onChange}
-                    nameIcon='md-mail'
+                    nameIcon='keypad'
                     sizeNumber={20}
-                    colorIcon='#9E91EA'
+                    colorIcon='#b354b4'
                     placeholder={HardCodedTexts.confirmationCodeText}
                     keyboardType={'number-pad'}
                     errorMessage={errors.code?.message}

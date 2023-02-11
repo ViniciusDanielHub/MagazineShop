@@ -289,8 +289,6 @@ export const ProductDetails = ({route}: ProductDetailsProps) => {
 
         <S.OldPriceContent>
       <S.OldPrice> 
-        $ {
-        Math.round((route.params.product.price! + Number.EPSILON) * 100) / 100}
       </S.OldPrice>
         </S.OldPriceContent> 
       </S.ContainerPrice>

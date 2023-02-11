@@ -102,7 +102,7 @@ export const OldPriceContent = styled.View`
 
 export const OldPrice = styled.Text`
  ${({ theme }: DefaultTheme) => css`
- color: #D2D2D2
+ color: #D2D2D2;
  text-decoration-color: #D2D2D2;
  font-size:12px;
  font-family: ${theme.font.poppinsPriceAndDiscountSemiBold};

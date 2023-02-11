@@ -9,6 +9,10 @@ export const Container = styled.View`
   `}
 `
 
+export const AlignmentBackButton = styled.View`
+ right: 12px;
+`
+
 export const ScrollContainer = styled.View`
  width: 100%;
  flex-direction: row;

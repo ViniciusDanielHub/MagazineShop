@@ -51,7 +51,9 @@ export const TermsAndConditions = () => {
 
   return (
     <S.Container>
+      <S.AlignmentBackButton>
       <BackBtn color={'#730FB0'} onPress={() => navigation.goBack()}/>
+      </S.AlignmentBackButton>
       <S.TermsText>{HardCodedTexts.termsTextTitle}</S.TermsText>
       <S.TermsTextUpdated>{HardCodedTexts.termsTextUpdatedData}</S.TermsTextUpdated>
 

@@ -116,7 +116,7 @@ export const DidNotReceiveEmailText = styled.Text`
 export const TryText = styled.Text`
 ${({ theme }: DefaultTheme) => css`
     font-family:${theme.font.heeboTitleButtonMedium};
-    color: ${theme.colors.fifthFontColor};
+    color: ${theme.colors.sixthFontColor};
     font-size: ${theme.sizes.medium};
     font-weight: ${theme.font.bold};
     margin-top: ${theme.spacings.xsmall};

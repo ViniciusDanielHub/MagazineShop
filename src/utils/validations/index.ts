@@ -42,7 +42,7 @@ export const verifyUserAccountSchema = yup
   .object({
     code: yup
       .string()
-      .required('Username is required'),
+      .required('Code is required'),
   })
   .required();
 
@@ -66,7 +66,7 @@ export const forgotPasswordSchema = yup
   .object({
     email: yup
       .string()
-      .required('Code is required'),
+      .required('Email is required'),
   })
   .required();
   
