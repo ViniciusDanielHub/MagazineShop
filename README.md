@@ -18,8 +18,8 @@
 - Ter [**Npm**](https://www.npmjs.com/) instalado.
 - Ter [**Xcode**](https://developer.apple.com/xcode/) instalado.
 - Ter [**Android Studio**](https://developer.android.com/studio?gclid=CjwKCAiAuaKfBhBtEiwAht6H70-RFWgb9lAkUk7v4FLKxbZn65IxTNXUDxz8DfkTldRhpg9PK9H1zhoCxVkQAvD_BwE&gclsrc=aw.ds) instalado.
-- Ter [**React native variables**](https://reactnative.dev/docs/environment-setup) instalado.
-- Ter Conta Na [**Aws Amplify**](https://aws.amazon.com/pt/amplify/) e instalar.
+- Ter [**React Native Variables**](https://reactnative.dev/docs/environment-setup) instalado.
+- Ter Conta Na [**AWS Amplify**](https://aws.amazon.com/pt/amplify/) e instalar.
 
 ## :rocket: Começando
 ``` bash
